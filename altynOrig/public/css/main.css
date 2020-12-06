@@ -1,0 +1,42 @@
+.container{
+    background-color: antiquewhite;
+    margin-top: 50px;
+    padding: 20px 20px;
+}
+.dropdown-item:active{
+    background-color: #17A2B8;
+}
+.table-buttons{
+    text-align: right;
+}
+.table-buttons form{
+    display: contents;
+}
+
+.box{
+    background-color: #6C757D;
+    padding: 10px 10px;
+    color:#E3FFFD;
+}
+.page-header{
+    background-color:#343A40;
+    color: white;
+    padding-top: 90px;
+    font-style: normal;
+    text-align: center;
+}
+/*.container{*/
+/*    background-color: #343A40;*/
+/*    margin-top: -10px;*/
+/*    padding-top: 30px;*/
+/*}*/
+/*.img-rounded{*/
+/*    width: 90px;*/
+/*    text-align: center;*/
+/*}*/
+
+.dropdown-item:active{
+    background-color: #17A2B8;
+}
+
+
